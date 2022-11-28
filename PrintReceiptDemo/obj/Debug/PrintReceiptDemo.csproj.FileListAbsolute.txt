@@ -1,0 +1,34 @@
+E:\COURS\MES DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\bin\Debug\PrintReceiptDemo.exe.config
+E:\COURS\MES DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\bin\Debug\PrintReceiptDemo.exe
+E:\COURS\MES DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\bin\Debug\PrintReceiptDemo.pdb
+E:\COURS\MES DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.csprojResolveAssemblyReference.cache
+E:\COURS\MES DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.Properties.Resources.resources
+E:\COURS\MES DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.csproj.GenerateResource.Cache
+E:\COURS\MES DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.exe
+E:\COURS\MES DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.pdb
+E:\COURS\MES DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.Accueil.resources
+E:\COURS\MES DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.frmImpr.resources
+E:\COURS\MES DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\RdlCompile.cache
+E:\COURS\MES DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\RdlCompile.compiled
+E:\COURS\DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\bin\Debug\PrintReceiptDemo.exe.config
+E:\COURS\DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.exe
+E:\COURS\DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.pdb
+E:\COURS\DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\bin\Debug\PrintReceiptDemo.exe
+E:\COURS\DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\bin\Debug\PrintReceiptDemo.pdb
+E:\COURS\DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.Accueil.resources
+E:\COURS\DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.frmImpr.resources
+E:\COURS\DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.Properties.Resources.resources
+E:\COURS\DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.csproj.GenerateResource.Cache
+E:\COURS\DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\RdlCompile.cache
+E:\COURS\DEV\AutreCSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\RdlCompile.compiled
+E:\DEV\CSharp\PrintReceiptDemo\PrintReceiptDemo\bin\Debug\PrintReceiptDemo.exe.config
+E:\DEV\CSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.exe
+E:\DEV\CSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.pdb
+E:\DEV\CSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.csprojResolveAssemblyReference.cache
+E:\DEV\CSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.Accueil.resources
+E:\DEV\CSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.frmImpr.resources
+E:\DEV\CSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.Properties.Resources.resources
+E:\DEV\CSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.csproj.GenerateResource.Cache
+E:\DEV\CSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\RdlCompile.cache
+E:\DEV\CSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\RdlCompile.compiled
+E:\DEV\CSharp\PrintReceiptDemo\PrintReceiptDemo\obj\Debug\PrintReceiptDemo.csprojFakesResolveAssemblyReference.cache
